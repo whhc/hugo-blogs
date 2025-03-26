@@ -2,7 +2,7 @@ baseURL = 'https://whhc.github.io/hugo-blogs/'
 languageCode = 'zh-CN'
 title = '午后红茶'
 theme = "devise"
-relativeURLs = true
+relativeURLs = false
 enableEmoji = true
 copyright = "&copy; Copyright 2025, whhc"
 
