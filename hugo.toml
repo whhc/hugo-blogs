@@ -2,7 +2,7 @@ baseURL = '/'
 languageCode = 'zh-CN'
 title = '午后红茶'
 theme = "devise"
-relativeURLs = false
+relativeURLs = true
 enableEmoji = true
 copyright = "&copy; Copyright 2025, whhc"
 
