@@ -1,3 +1,23 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'zh-CN'
+title = '午后红茶'
+theme = "devise"
+relativeURLs = true
+enableEmoji = true
+copyright = "&copy; Copyright 2025, whhc"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "主页"
+    title = "主页"
+    url = "/"
+    weight = -100
+
+[params]
+  description = "不积跬步，无以至千里；不积小流，无以成江海"      # Your meta description of the site
+  header_title = "午后红茶"                 # Your header title
+  header_subtitle = "不积跬步，无以至千里；不积小流，无以成江海" # Your header subtitle
+  home_image = "/images/avatar.png"          # Path to header image starting from the static directory
+  recent_posts = 5                           # Max amount of recent posts to show
+  # mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
