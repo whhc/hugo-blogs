@@ -1,4 +1,4 @@
-baseURL = 'https://whhc.github.io/hugo-blogs/'
+baseURL = 'https://whhc.github.io/'
 languageCode = 'zh-CN'
 title = '午后红茶'
 theme = "devise"
@@ -11,7 +11,7 @@ copyright = "&copy; Copyright 2025, whhc"
     identifier = "home"
     name = "主页"
     title = "主页"
-    url = "/"
+    url = "./hugo-blogs"
     weight = -100
 
 [params]
