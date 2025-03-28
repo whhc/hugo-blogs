@@ -1,4 +1,4 @@
-baseURL = '/hugo-blogs/'
+baseURL = 'https://whhc.github.io/'
 languageCode = 'zh-CN'
 title = '午后红茶'
 theme = "devise"
@@ -18,7 +18,7 @@ copyright = "&copy; Copyright 2025, whhc"
   description = "不积跬步，无以至千里；不积小流，无以成江海"      # Your meta description of the site
   header_title = "午后红茶"                 # Your header title
   header_subtitle = "不积跬步，无以至千里；不积小流，无以成江海" # Your header subtitle
-  home_image = "./images/avatar.png"          # Path to header image starting from the static directory
+  home_image = "images/avatar.png"          # Path to header image starting from the static directory
   recent_posts = 5                           # Max amount of recent posts to show
   # mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
 
